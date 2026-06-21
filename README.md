@@ -93,6 +93,6 @@ MULTI CLASS FAKE NEWS DETECTOR PROJECT
 
 ## Author
 
-Naman
+Nishant Saubhari
 
 Aspiring Machine Learning & NLP Engineer
