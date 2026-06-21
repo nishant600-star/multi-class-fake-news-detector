@@ -98,6 +98,9 @@ Future Improvements
 - News Source Analysis
 - API Deployment
 
+## Live Demo
+https://multi-class-fake-news-detector-7xf3ts96ej8chyj4zkcrch.streamlit.app/
+
 ## Author
 
 Nishant Saubhari
