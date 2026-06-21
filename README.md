@@ -91,6 +91,13 @@ MULTI CLASS FAKE NEWS DETECTOR PROJECT
 
 ---
 
+Future Improvements
+
+- RoBERTa Fine-Tuning
+- Explainable AI
+- News Source Analysis
+- API Deployment
+
 ## Author
 
 Nishant Saubhari
